@@ -1,0 +1,13 @@
+.todoList 
+{
+    display: block;
+}
+.wrapper 
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+li
+{
+    background-color: aquamarine;
+}
